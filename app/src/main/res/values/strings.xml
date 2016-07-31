@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+
+    <!--String for screen used-->
+    <string name="upcoming_movies_name">Up Coming Movies</string>
+    <string name="developer_info">Developer Info</string>
+    <string name="movies_details">Movies Details</string>
+    <string name="no_data_found">No data found! Please try again</string>
+    <string name="adult">(A)</string>
+    <string name="no_adult">(U/A)</string>
+    <string name="dev_info">Developed By\nMankesh Mishra\nmaik71mishra@gmail.com</string>
+    <string name="press_again">"Please press again to exit."</string>
+</resources>
